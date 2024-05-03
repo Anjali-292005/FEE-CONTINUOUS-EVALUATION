@@ -37,7 +37,7 @@
             font-size: 16px;
             cursor: pointer;
             border: none;
-            border-radius: 4px;
+            border-radius: 5px;
         }
 
         /* Combine common styles for button styles */
