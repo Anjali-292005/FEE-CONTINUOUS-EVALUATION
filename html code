@@ -32,7 +32,7 @@
         }
 
         button {
-            margin: 6px;
+            margin: 5px;
             padding:20px 20px;
             font-size: 16px;
             cursor: pointer;
