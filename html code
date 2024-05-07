@@ -59,7 +59,7 @@
         }
 
         button:hover {
-            opacity: 1.0;
+            opacity: 2.0;
         }
     </style>
 </head>
