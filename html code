@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -70,7 +70,7 @@
         <div id="quote-container">
             <p id="quote">Click this button  to generate a random quote.</p>
         </div>
-        <button id="generate-btn">Generate Quote</button>
+        <button id="generate-btn">Generate next Quote</button>
         <button id="tweet-btn">Tweet Quote</button>
         <button id="copy-btn">Copy Quote</button>
         <button id="download-btn">Download Quote</button>
