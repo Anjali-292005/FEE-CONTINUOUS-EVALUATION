@@ -43,7 +43,7 @@
 
         /* Combine common styles for button styles */
         button#generate-btn {
-            background-color: #3498db;
+            background-color: #3498;
             color: #fff;
         }
 
