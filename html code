@@ -35,10 +35,10 @@
         button {
             margin: 6px;
             padding:16px 20px;
-            font-size: 15px;
+            font-size: 16px;
             cursor: pointer;
             border: none;
-            border-radius: 5px;
+            border-radius: 6px;
         }
 
         /* Combine common styles for button styles */
@@ -59,7 +59,7 @@
         }
 
         button:hover {
-            opacity: 1.0;
+            opacity: 1.2;
         }
     </style>
 </head>
